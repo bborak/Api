@@ -1,0 +1,10 @@
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\bin\Debug\ApiWheather.exe.config
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\bin\Debug\ApiWheather.exe
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\bin\Debug\ApiWheather.pdb
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\obj\Debug\ApiWheather.csprojResolveAssemblyReference.cache
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\obj\Debug\ApiWheather.Dzisiaj.resources
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\obj\Debug\ApiWheather.Properties.Resources.resources
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\obj\Debug\ApiWheather.csproj.GenerateResource.Cache
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\obj\Debug\ApiWheather.exe
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\obj\Debug\ApiWheather.pdb
+c:\users\bartek\documents\visual studio 2015\Projects\ApiWheather\ApiWheather\obj\Debug\ApiWheather.Menu.resources
