@@ -15,3 +15,20 @@ C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bi
 C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.xml
 C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\WheaterAppi.exe.config
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.exe
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.pdb
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\WheaterAppi.exe
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\WheaterAppi.pdb
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.dll
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.xml
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Dzisiaj.resources
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Properties.Resources.resources
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Tommorow.resources
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.csproj.GenerateResource.Cache

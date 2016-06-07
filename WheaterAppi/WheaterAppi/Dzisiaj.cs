@@ -32,7 +32,10 @@ namespace WheaterAppi
                 //    //    var deleteing = db.Citys.First(c => c.ID == i);
                 //    //    db.Citys.Remove(deleteing);
 
-                    
+                db.Activities.Add(new Activity { ID = 1, NameOfActivity = "Programing time", DescriptionOfActivity = "Sunny" });
+                var itemAcc = db.Activities.Single(n => n.ID == 1).NameOfActivity;
+                comboBox1.Text = itemAcc;
+                //db.SaveChanges();
                 //    comboBox1.Text = city1name;
                 //}
                 //city1name = db.Citys.Where(n => n.ID == 16).First().NameCity;

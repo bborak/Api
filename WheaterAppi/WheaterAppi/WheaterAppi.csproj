@@ -65,6 +65,7 @@
     <Compile Include="Dzisiaj.Designer.cs">
       <DependentUpon>Dzisiaj.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\Activity.cs" />
     <Compile Include="Model\City.cs" />
     <Compile Include="Model\ContextWheather.cs" />
     <Compile Include="Model\Display.cs" />

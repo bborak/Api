@@ -11,6 +11,8 @@ namespace WheaterAppi.Model
     {
         public DbSet<TodayItems> Todays { get; set; }
         public DbSet<City>Citys { get; set; }
+
+        public DbSet<Activity> Activities { get; set; }
       //  public DbSet<DaysWheaterItem>DaysItems { get; set; }
     }
-}
+}       
