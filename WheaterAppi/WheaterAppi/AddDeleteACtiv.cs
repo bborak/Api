@@ -18,14 +18,10 @@ namespace WheaterAppi
 
         public AddDeleteACtiv()
         {
+            InitializeComponent();
             using (var db = new ContextWheather())
             {
-                InitializeComponent();
-                var dane = from p in db.Activities orderby p.ID select p;
-                foreach (var mindane in dane)
-                {
-                    listBox1.Items.Add(mindane.NameOfActivity);
-                }
+
                 panelAddDelete.BackColor = Color.FromArgb(43, 145, 184);
                 FormBorderStyle = FormBorderStyle.None;
                 //TextboxNameActiv.Visible = false;
@@ -34,9 +30,12 @@ namespace WheaterAppi
                 comboBox1.Items.Add("Słoneczna");
                 comboBox1.Items.Add("Pochmurna");
                 comboBox1.Items.Add("Burzowa");
-                //
+                comboBox1.Text="Wybierz";
 
-            }
+                //
+//                comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+                }
+            
         }
 
         private void pictureboxClose_Click(object sender, EventArgs e)
@@ -78,10 +77,12 @@ namespace WheaterAppi
                          new Activity
                          { ID = (IDnew + 1), NameOfActivity = TextboxNameActiv.Text, DescriptionOfActivity = "Storm" });
                     }
-
+                    MessageBox.Show("Zapisano pomślnie");
+                    // db.SaveChanges();  
                 }
-                //db.SaveChanges();
-                MessageBox.Show("Zapisano pomślnie");
+
+                else { MessageBox.Show("Nie zapisano pomślnie!"+Environment.NewLine+"Description( Nie wpisałeś nazwy lub nie wybrałeś rodzaju pogody)"); }
+
             }
         }
 
@@ -94,7 +95,23 @@ namespace WheaterAppi
 
                 var deletete = db.Activities.FirstOrDefault(w => w.NameOfActivity == dousuniecia);
                 db.Activities.Remove(deletete);
-                db.SaveChanges();
+                listBox1.Items.Clear();
+               // db.SaveChanges();
+                MessageBox.Show("Usunieto pomyślnie!");
+            }
+        }
+
+        private void Butwczytaj_Click(object sender, EventArgs e)
+        {
+            using (var db = new ContextWheather())
+            {
+   
+                var dane = from p in db.Activities orderby p.ID select p;
+                foreach (var mindane in dane)
+                {
+                    listBox1.Items.Add(mindane.NameOfActivity);
+                }
+
             }
         }
     }

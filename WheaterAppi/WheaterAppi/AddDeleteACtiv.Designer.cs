@@ -44,6 +44,7 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.ButtonSaveActiv = new System.Windows.Forms.Button();
             this.TextboxNameActiv = new System.Windows.Forms.TextBox();
+            this.Butwczytaj = new System.Windows.Forms.Button();
             this.panelAddDelete.SuspendLayout();
             this.panelLogo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureboxClose)).BeginInit();
@@ -53,6 +54,7 @@
             // 
             // panelAddDelete
             // 
+            this.panelAddDelete.Controls.Add(this.Butwczytaj);
             this.panelAddDelete.Controls.Add(this.listBox1);
             this.panelAddDelete.Controls.Add(this.label2);
             this.panelAddDelete.Controls.Add(this.panelLogo);
@@ -128,7 +130,7 @@
             // 
             // ButtDelete
             // 
-            this.ButtDelete.Location = new System.Drawing.Point(108, 384);
+            this.ButtDelete.Location = new System.Drawing.Point(159, 375);
             this.ButtDelete.Name = "ButtDelete";
             this.ButtDelete.Size = new System.Drawing.Size(75, 23);
             this.ButtDelete.TabIndex = 1;
@@ -206,6 +208,16 @@
             this.TextboxNameActiv.TabIndex = 0;
             this.TextboxNameActiv.Text = "Wpisz";
             // 
+            // Butwczytaj
+            // 
+            this.Butwczytaj.Location = new System.Drawing.Point(53, 375);
+            this.Butwczytaj.Name = "Butwczytaj";
+            this.Butwczytaj.Size = new System.Drawing.Size(75, 23);
+            this.Butwczytaj.TabIndex = 8;
+            this.Butwczytaj.Text = "Wczytaj";
+            this.Butwczytaj.UseVisualStyleBackColor = true;
+            this.Butwczytaj.Click += new System.EventHandler(this.Butwczytaj_Click);
+            // 
             // AddDeleteACtiv
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -246,5 +258,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.Button Butwczytaj;
     }
 }

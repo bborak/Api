@@ -122,43 +122,10 @@
     <value>Stretch</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="LabData.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="LabData.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt</value>
-  </data>
-  <data name="LabData.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="LabData.Location" type="System.Drawing.Point, System.Drawing">
-    <value>290, 114</value>
-  </data>
-  <data name="LabData.Size" type="System.Drawing.Size, System.Drawing">
-    <value>33, 15</value>
-  </data>
-  <data name="LabData.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
-  </data>
-  <data name="LabData.Text" xml:space="preserve">
-    <value>Data</value>
-  </data>
-  <data name="&gt;&gt;LabData.Name" xml:space="preserve">
-    <value>LabData</value>
-  </data>
-  <data name="&gt;&gt;LabData.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;LabData.Parent" xml:space="preserve">
-    <value>MainPanel</value>
-  </data>
-  <data name="&gt;&gt;LabData.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="LabSugerAktyw.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="LabSugerAktyw.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
@@ -184,7 +151,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabSugerAktyw.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>0</value>
   </data>
   <data name="SugerowanaAktywnosc.Font" type="System.Drawing.Font, System.Drawing">
     <value>Times New Roman, 9.75pt</value>
@@ -211,7 +178,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;SugerowanaAktywnosc.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>1</value>
   </data>
   <data name="pictureBox6.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -248,7 +215,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;pictureBox6.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="pictureBox5.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -285,7 +252,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;pictureBox5.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>3</value>
   </data>
   <data name="pictureMoonArrow.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -322,7 +289,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;pictureMoonArrow.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>4</value>
   </data>
   <data name="pictureBox3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -359,7 +326,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>5</value>
   </data>
   <data name="LabWindValue.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -389,7 +356,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabWindValue.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>6</value>
   </data>
   <data name="LabWiatr.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -419,7 +386,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabWiatr.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>7</value>
   </data>
   <data name="MoonBox.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -6424,7 +6391,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;MoonBox.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>8</value>
   </data>
   <data name="PictureDesc.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>
@@ -6448,7 +6415,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;PictureDesc.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>9</value>
   </data>
   <data name="LabTemp.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6478,7 +6445,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabTemp.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>10</value>
   </data>
   <data name="TempActual.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6508,7 +6475,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;TempActual.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>11</value>
   </data>
   <data name="LabDEsc.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6539,7 +6506,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabDEsc.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>12</value>
   </data>
   <data name="LabMoonSet.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6566,7 +6533,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabMoonSet.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>13</value>
   </data>
   <data name="LabMoonRise.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6593,7 +6560,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabMoonRise.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>14</value>
   </data>
   <data name="LabSunSet.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6620,7 +6587,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabSunSet.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>15</value>
   </data>
   <data name="LabSunRise.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6650,7 +6617,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabSunRise.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>16</value>
   </data>
   <data name="Temperatura.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6674,7 +6641,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;Temperatura.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>17</value>
   </data>
   <data name="pictureBox4.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -7065,7 +7032,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;pictureBox4.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>18</value>
   </data>
   <data name="Odczuwalna.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -7095,7 +7062,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;Odczuwalna.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>19</value>
   </data>
   <data name="pictureBox2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -7250,7 +7217,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
-    <value>21</value>
+    <value>20</value>
   </data>
   <data name="LabelTime.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -7259,7 +7226,7 @@
     <value>Microsoft Sans Serif, 8.25pt</value>
   </data>
   <data name="LabelTime.Location" type="System.Drawing.Point, System.Drawing">
-    <value>258, 116</value>
+    <value>285, 118</value>
   </data>
   <data name="LabelTime.Size" type="System.Drawing.Size, System.Drawing">
     <value>35, 13</value>
@@ -7280,7 +7247,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabelTime.ZOrder" xml:space="preserve">
-    <value>22</value>
+    <value>21</value>
   </data>
   <data name="label3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -7289,16 +7256,16 @@
     <value>Microsoft Sans Serif, 9pt</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>212, 114</value>
+    <value>210, 116</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>120, 15</value>
+    <value>81, 15</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>dzisiaj,            , godz. </value>
+    <value>dzisiaj, godz. </value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
@@ -7310,7 +7277,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>23</value>
+    <value>22</value>
   </data>
   <data name="LabCityName.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -7340,7 +7307,7 @@
     <value>MainPanel</value>
   </data>
   <data name="&gt;&gt;LabCityName.ZOrder" xml:space="preserve">
-    <value>24</value>
+    <value>23</value>
   </data>
   <data name="MainPanel.Location" type="System.Drawing.Point, System.Drawing">
     <value>227, -2</value>
@@ -7367,16 +7334,16 @@
     <value>Stretch</value>
   </data>
   <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Cambria, 12pt, style=Bold, Italic</value>
+    <value>Cambria, 13pt, style=Bold, Italic</value>
   </data>
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 100</value>
+    <value>54, 168</value>
   </data>
   <data name="button1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
   </data>
   <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>233, 50</value>
+    <value>125, 30</value>
   </data>
   <data name="button1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -7394,7 +7361,7 @@
     <value>PanelLeft</value>
   </data>
   <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -7635,44 +7602,14 @@
   <data name="&gt;&gt;panelLogo.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Cambria, 15pt, style=Bold, Italic</value>
-  </data>
-  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>79, 37</value>
-  </data>
-  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>70, 23</value>
-  </data>
-  <data name="label2.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>Miasto</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>PanelLeft</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="button2.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>
   </data>
   <data name="button2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Cambria, 12pt, style=Bold, Italic</value>
+    <value>Cambria, 13pt, style=Bold, Italic</value>
   </data>
   <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 207</value>
+    <value>0, 330</value>
   </data>
   <data name="button2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -7684,7 +7621,8 @@
     <value>2</value>
   </data>
   <data name="button2.Text" xml:space="preserve">
-    <value>Zarządzaj aktywnościami</value>
+    <value>Zarządzaj 
+aktywnościami</value>
   </data>
   <data name="&gt;&gt;button2.Name" xml:space="preserve">
     <value>button2</value>
@@ -7696,10 +7634,10 @@
     <value>PanelLeft</value>
   </data>
   <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>0</value>
   </data>
   <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>54, 69</value>
+    <value>54, 134</value>
   </data>
   <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>121, 21</value>
@@ -7717,7 +7655,7 @@
     <value>PanelLeft</value>
   </data>
   <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>1</value>
   </data>
   <data name="PanelLeft.Location" type="System.Drawing.Point, System.Drawing">
     <value>-3, 75</value>

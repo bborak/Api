@@ -59,10 +59,8 @@
             this.panelLogo = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.PanelLeft = new System.Windows.Forms.Panel();
-            this.label2 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.LabData = new System.Windows.Forms.Label();
             this.MainPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
@@ -81,7 +79,6 @@
             // 
             this.MainPanel.BackColor = System.Drawing.SystemColors.ActiveCaption;
             resources.ApplyResources(this.MainPanel, "MainPanel");
-            this.MainPanel.Controls.Add(this.LabData);
             this.MainPanel.Controls.Add(this.LabSugerAktyw);
             this.MainPanel.Controls.Add(this.SugerowanaAktywnosc);
             this.MainPanel.Controls.Add(this.pictureBox6);
@@ -256,6 +253,7 @@
             // 
             this.button1.BackColor = System.Drawing.Color.White;
             resources.ApplyResources(this.button1, "button1");
+            this.button1.ForeColor = System.Drawing.SystemColors.Control;
             this.button1.Name = "button1";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -284,23 +282,17 @@
             // PanelLeft
             // 
             this.PanelLeft.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.PanelLeft.Controls.Add(this.label2);
             this.PanelLeft.Controls.Add(this.button2);
             this.PanelLeft.Controls.Add(this.comboBox1);
             this.PanelLeft.Controls.Add(this.button1);
             resources.ApplyResources(this.PanelLeft, "PanelLeft");
             this.PanelLeft.Name = "PanelLeft";
             // 
-            // label2
-            // 
-            resources.ApplyResources(this.label2, "label2");
-            this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label2.Name = "label2";
-            // 
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.White;
             resources.ApplyResources(this.button2, "button2");
+            this.button2.ForeColor = System.Drawing.SystemColors.Control;
             this.button2.Name = "button2";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click_1);
@@ -310,12 +302,6 @@
             this.comboBox1.FormattingEnabled = true;
             resources.ApplyResources(this.comboBox1, "comboBox1");
             this.comboBox1.Name = "comboBox1";
-            // 
-            // LabData
-            // 
-            resources.ApplyResources(this.LabData, "LabData");
-            this.LabData.ForeColor = System.Drawing.SystemColors.Control;
-            this.LabData.Name = "LabData";
             // 
             // Dzisiaj
             // 
@@ -343,7 +329,6 @@
             this.panelLogo.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.PanelLeft.ResumeLayout(false);
-            this.PanelLeft.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -382,8 +367,6 @@
         private System.Windows.Forms.ListBox SugerowanaAktywnosc;
         private System.Windows.Forms.Label LabSugerAktyw;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label LabData;
     }
 }
 
