@@ -20,5 +20,6 @@ namespace WheaterAppi.Model
         public string Presure { get; set; }
         public string Wind { get; set; }
         public string TempActual { get; set; }
+      //  public DateTime Datee { get; set; }
     }
 }

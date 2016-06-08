@@ -32,7 +32,7 @@ namespace WheaterAppi.Model
             //   HtmlNode[] nodesDescription = Document.DocumentNode.SelectNodes("//div[@class='emission-time']").ToArray();
             //HtmlNode[] nodesSunRise = Document.DocumentNode.SelectNodes("//span[@class='cat-container']").ToArray();
 
-
+            
             HtmlNode[] nodesTemperature = Document.DocumentNode.SelectNodes("//div[@class='weather-currently-temp-strict']").ToArray();
             HtmlNode[] nodesDescription = Document.DocumentNode.SelectNodes("//div[@class='weather-currently-icon-description']").ToArray();
             HtmlNode[] nodesSunRise = Document.DocumentNode.SelectNodes("//span[@class='weather-currently-info-sunrise']").ToArray();
@@ -71,7 +71,7 @@ namespace WheaterAppi.Model
             item.MoonRise = moonRise;
             item.MoonSet = moonSet;
             item.CityName = cityname;
-        
+            //item.Datee = date;
             item.TempActual = actual;
             item.Wind = wind;
             //  item.Description = descrip;

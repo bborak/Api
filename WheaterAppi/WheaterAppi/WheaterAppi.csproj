@@ -59,6 +59,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddDeleteACtiv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDeleteACtiv.Designer.cs">
+      <DependentUpon>AddDeleteACtiv.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dzisiaj.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +87,9 @@
     <Compile Include="Tommorow.Designer.cs">
       <DependentUpon>Tommorow.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AddDeleteACtiv.resx">
+      <DependentUpon>AddDeleteACtiv.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Dzisiaj.resx">
       <DependentUpon>Dzisiaj.cs</DependentUpon>
     </EmbeddedResource>

@@ -32,3 +32,4 @@ C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAp
 C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Properties.Resources.resources
 C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Tommorow.resources
 C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.csproj.GenerateResource.Cache
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.AddDeleteACtiv.resources
