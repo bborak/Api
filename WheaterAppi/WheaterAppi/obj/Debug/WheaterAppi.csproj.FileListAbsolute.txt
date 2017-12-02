@@ -1,0 +1,35 @@
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\WheaterAppi.exe.config
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.csprojResolveAssemblyReference.cache
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Properties.Resources.resources
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.csproj.GenerateResource.Cache
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\WheaterAppi.exe
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\WheaterAppi.pdb
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\HtmlAgilityPack.dll
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\HtmlAgilityPack.pdb
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\HtmlAgilityPack.xml
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.exe
+c:\users\bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.pdb
+C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Dzisiaj.resources
+C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Tommorow.resources
+C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.dll
+C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.xml
+C:\Users\Bartek\documents\visual studio 2015\Projects\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\WheaterAppi.exe.config
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.exe
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.pdb
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\WheaterAppi.exe
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\WheaterAppi.pdb
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.dll
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.xml
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Dzisiaj.resources
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Properties.Resources.resources
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.Tommorow.resources
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.csproj.GenerateResource.Cache
+C:\Users\Bartek\Documents\GitHub\Api\WheaterAppi\WheaterAppi\obj\Debug\WheaterAppi.AddDeleteACtiv.resources
